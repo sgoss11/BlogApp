@@ -33,3 +33,30 @@
 	font-size: 12px;
   color: #fff;
 }
+
+.new-post{
+  color: #1abc9c;
+  padding-top: 15px;
+}
+
+.new-post:hover{
+  color: #829994;
+}
+
+.read-more{
+  color: #1abc9c;
+}
+
+.read-more:hover{
+  color: #829994;
+}
+
+.submit{
+  background-color: #1abc9c;
+  color: #fff;
+}
+
+.submit:hover{
+  background-color: #829994;
+  color: #fff;
+}
